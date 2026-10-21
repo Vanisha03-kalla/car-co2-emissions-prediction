@@ -1,4 +1,5 @@
 # car-co2-emissions-prediction
+LIVE DEMO: https://car-co2-emissions-predictiongit-vlwvuixjf6ees5wa4f8asn.streamlit.app/
 Predicting CO2 emissions from car features using Linear, Ridge, and Lasso Regression. Includes data preprocessing, model evaluation with MSE &amp; R², and visualization for insights into emission patterns.
 
 
